@@ -1,7 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #pragma once
-#include "TT_SaveProgress.h"
 #include "TT_GameInstance.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
